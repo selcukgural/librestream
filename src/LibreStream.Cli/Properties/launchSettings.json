@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LibreStream.Cli": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
